@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ModInfo>
+	<title>RemoveAll - A15</title>
+	<summary>Removes all XML Entries</summary>
+	<description>
+		Removes all XML Entries for compatibility with existing mods.
+	</description>
+	<author>Chromecide</author>
+	<website>https://github.com/7DaysToMod/RemoveAll</website>
+	<gameversions>
+		<version>15.2.7</version>
+		<version>15.2.8</version>
+	</gameversions>
+</ModInfo>

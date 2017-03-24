@@ -1,0 +1,3 @@
+<traders buy_markup="3.0" sell_markdown="0.2" quality_mod="1,2" currency_item="casinoCoin" >
+	<removeall/>
+</traders>

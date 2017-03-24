@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Defines the physical attributes of a vehicle -->
+<vehicles>
+  <removeall/>
+</vehicles>
